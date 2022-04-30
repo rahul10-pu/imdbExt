@@ -1,0 +1,7 @@
+debug
+.vscode
+downloads/*
+files/decompressed/*
+files/archive/*
+imdbExt
+imdbExt.exe
